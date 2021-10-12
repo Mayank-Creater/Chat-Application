@@ -1,7 +1,7 @@
 
 # Chat Application
 
-A Chat Application called iChat developed using SocketIO and by Me, Mayank Gupta.
+A Chat Application called iChat developed using SocketIO and by Me.
 
 
 ## Starting the Server
